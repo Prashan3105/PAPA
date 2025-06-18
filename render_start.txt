@@ -1,0 +1,4 @@
+
+Gunicorn Start Command (for Render.com):
+
+gunicorn mandi_api:app
